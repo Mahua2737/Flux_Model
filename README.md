@@ -83,8 +83,6 @@ Model Output:
 ```
 ├── image_generation.py    # Python script for Stable Diffusion image generation
 ├── flux_model.jl          # Julia script for Flux-based model forward pass
-├── generated_images/      # Folder containing generated images
-├── preprocessed_images/   # Folder containing preprocessed images
 └── README.md              # Project documentation
 ```
 
